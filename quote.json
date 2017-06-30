@@ -1,15 +1,15 @@
 [
 	{ "quote": "You can do anything, but not everything.",
-	  "number" : "1";
-	  "who" : "David Allen";
+	  "number" : "1",
+	  "who" : "David Allen"
 	},
 	{ "quote": "The richest man is not he who has the most, but he who needs the least.",
-	  "number" : "2";
-	  "who" : "Unknown Author";
+	  "number" : "2",
+	  "who" : "Unknown Author"
 	},
 	{ "quote": "You miss 100 percent of the shots you never take.",
-	  "number" : "3";
-	  "who" : "Wayne Gretzky";
+	  "number" : "3",
+	  "who" : "Wayne Gretzky"
 	}
 
 ]
